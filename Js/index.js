@@ -1,23 +1,23 @@
 const questions = [
     {
-        question: "question 1",
-        choices: ["1","2","3","4"],
-        answer: "1"
+        question: "What is a Boolean?",
+        choices: ["True or False value","Function","Number","Apple Pie"],
+        answer: "True or False value"
     },
     {
-        question: "question 2",
-        choices: ["1","2","3","4"],
-        answer: "2"
+        question: "What is an array?",
+        choices: ["Integer","String","Object to store data","Boolean"],
+        answer: "Object to store data"
     },
     {
-        question: "question 3",
-        choices: ["1","2","3","4"],
-        answer: "4"
+        question: "which of the following can be used to make a loop",
+        choices: ["if Statement","For Loop","Array","Var"],
+        answer: "For Loop"
     },
     {
-        question: "question 4",
-        choices: ["1","2","3","4"],
-        answer: "3"
+        question: "What is a string?",
+        choices: ["For Loop","True or False value","Object to store data","can be any text inside double or single quotes"],
+        answer: "can be any text inside double or single quotes"
     }
 ];
 let timeLeft = 60;
